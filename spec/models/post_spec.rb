@@ -10,10 +10,10 @@ describe Post do
     end
     
     it "should be valid with valid attributes" do
-      person = Post.new(@valid_attributes)
-      person.title.should == @valid_attributes[:title]
-      person.link.should == @valid_attributes[:link]
-      person.should be_valid
+      post = Post.new(@valid_attributes)
+      post.title.should == @valid_attributes[:title]
+      post.link.should == @valid_attributes[:link]
+      post.should be_valid
     end
 
     it "should require a title" do
