@@ -1,4 +1,4 @@
-Seriously?  The documentation for your framework is a bunch of blog posts spread across the Internet?  Yeah.  That's us.  The community where every blogger is an open source contributor to the documentation, and that is awesome, but it can also be a little crazy-making.  This project aspires to help by providing a database of links to blog posts that will be annotated with useful info.
+Seriously?  The documentation for your framework is a bunch of blog posts spread across the Internet?  Yeah.  That's us: the community where every blogger is an open source contributor to the documentation. That can be awesome, but it can also be a little crazy-making.  This project aspires to help by providing a database of links to blog posts that will be annotated with useful info.
 
 Lesson 1: Post model and controller 
 
