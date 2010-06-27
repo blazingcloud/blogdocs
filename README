@@ -15,3 +15,6 @@ Steps that created this app
   rake db:migrate
   rake spec
 
+To make the spec pass, start with:
+  script/generate model post title:string link:string
+  script/generate controller posts
