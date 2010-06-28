@@ -19,3 +19,5 @@ To make the spec pass, start with:
   script/generate model post title:string link:string
   script/generate controller posts
 
+Lesson 2: Views and Controller for Post CRUD
+  This is mostly a default REST implementation, except that I've removed the show controller action and view and made it so create and update re-direct to the posts page
